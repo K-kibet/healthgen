@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Healthgen",
+  "name": "Health blogging and content website",
   "icons": [
     {
       "src": "favicon.ico",
